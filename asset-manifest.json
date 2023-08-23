@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5159f281.css",
+    "main.js": "/static/js/main.e983ff5f.js",
+    "static/media/Nutrition5.webp": "/static/media/Nutrition5.d69cf275de3e3da3dddc.webp",
+    "static/media/thumbils2.jpg": "/static/media/thumbils2.f12607ecb94d13cdbda2.jpg",
+    "static/media/Nutrition1.webp": "/static/media/Nutrition1.00cf756ab2b45b22c587.webp",
+    "static/media/Nutrition4.webp": "/static/media/Nutrition4.41ece147b5facfa938ea.webp",
+    "static/media/thumbils4.jpg": "/static/media/thumbils4.0cb9dfb02642bef12041.jpg",
+    "static/media/thumbils3.jpg": "/static/media/thumbils3.aceca1bd58ca512187b6.jpg",
+    "static/media/Nutrition3.webp": "/static/media/Nutrition3.284225f95d0c590df9aa.webp",
+    "static/media/thumbils55.jpg": "/static/media/thumbils55.4f6ef668d97143eaee77.jpg",
+    "static/media/Nutrition2.webp": "/static/media/Nutrition2.0f4818e03a4c3b780645.webp",
+    "static/media/thumbils.jpg": "/static/media/thumbils.a5541abaa2269d27235e.jpg",
+    "index.html": "/index.html",
+    "main.5159f281.css.map": "/static/css/main.5159f281.css.map",
+    "main.e983ff5f.js.map": "/static/js/main.e983ff5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5159f281.css",
+    "static/js/main.e983ff5f.js"
+  ]
+}
